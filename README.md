@@ -47,7 +47,7 @@ Consistent frame rate handling
 
 ### Map file example
 
-NO ./tiles/NO.xpm
+```NO ./tiles/NO.xpm
 SO ./tiles/SO.xpm
 WE ./tiles/WE.xpm
 EA ./tiles/EA.xpm
@@ -62,6 +62,6 @@ C 135,206,250
 100000000000000000000N001
 1000000000000000001000001
 1111111111111111111111111
-
+```
 ## Implementation Notes
 This project adheres to strict memory management practices and follows standard graphics programming conventions. The implementation focuses on performance optimization and visual fidelity while maintaining a clean codebase.
