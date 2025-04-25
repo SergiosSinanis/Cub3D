@@ -15,30 +15,30 @@ Note: This project is compatible with Linux systems only.
 
 ### Graphics Engine
 
-Raycasting technique for 3D perspective
-Textured walls based on orientation
-Distance-based shading effects
-Floor and ceiling rendering
+- Raycasting technique for 3D perspective  
+- Textured walls based on orientation  
+- Distance-based shading effects  
+- Floor and ceiling rendering
 
 ### Game Controls
 
-Keyboard-based movement (WASD)
-Camera rotation using arrow keys
-Clean exit on ESC or window close
+- Keyboard-based movement (WASD)
+- Camera rotation using arrow keys
+- Clean exit on ESC or window close
 
 ### Map Parsing & Validation
 
-Custom map format (.cub) support
-Texture path configuration
-Color definition for floor and ceiling
-Map integrity validation
+- Custom map format (.cub) support
+- Texture path configuration
+- Color definition for floor and ceiling
+- Map integrity validation
 
 ### Visual Elements
 
-Different wall textures for each direction (N, S, E, W)
-Dynamic field of view
-Collision detection
-Consistent frame rate handling
+- Different wall textures for each direction (N, S, E, W)
+- Dynamic field of view
+- Collision detection
+- Consistent frame rate handling
 
 ## Usage Examples
 
