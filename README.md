@@ -47,7 +47,8 @@ Consistent frame rate handling
 
 ### Map file example
 
-```NO ./tiles/NO.xpm
+```
+NO ./tiles/NO.xpm
 SO ./tiles/SO.xpm
 WE ./tiles/WE.xpm
 EA ./tiles/EA.xpm
